@@ -4,12 +4,12 @@ WORKDIR /app
 
 COPY package*.json ./
 
-RUN npm install --include=dev
+RUN npm install
 
 COPY . .
 
-RUN npm run build
+RUN npx tsc
 
 EXPOSE 5000
 
-CMD ["npm", "start"]
+CMD ["node", "dist/server.js"]
