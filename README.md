@@ -15,11 +15,11 @@
 
 ## 🌐 Live Deployment
 
-### Frontend (Vercel)
-https://smart-leads-vert.vercel.app/
+### Frontend (Vercel) 
+> https://smart-leads-vert.vercel.app/
 
 ### Backend API (Render)
-https://smart-leads-api-ttq2.onrender.com/
+> https://smart-leads-api-ttq2.onrender.com/
 
 ---
 
