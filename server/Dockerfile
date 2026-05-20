@@ -8,8 +8,8 @@ RUN npm install
 
 COPY . .
 
-RUN npx tsc
+RUN npm run build
 
 EXPOSE 5000
 
-CMD ["node", "dist/server.js"]
+CMD ["npm", "start"]
