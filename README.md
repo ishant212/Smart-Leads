@@ -13,6 +13,16 @@
 
 ---
 
+## 🌐 Live Deployment
+
+### Frontend (Vercel)
+https://smart-leads-vert.vercel.app/
+
+### Backend API (Render)
+https://smart-leads-api-ttq2.onrender.com/
+
+---
+
 ## 📌 Project Overview
 
 > Built as a complete lead management solution evaluating frontend development, backend API design, database modeling, state management, and real-world engineering practices.
