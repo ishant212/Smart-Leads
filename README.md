@@ -218,7 +218,7 @@ smart-leads-dashboard/
 **Step 1 — Clone Repository**
 
 ```bash
-git clone https://github.com/<your-username>/smart-leads-dashboard
+git clone https://github.com/ishant212/Smart-Leads
 cd smart-leads-dashboard
 ```
 
